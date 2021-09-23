@@ -1,4 +1,4 @@
-package src.main.java.com.p1;
+package com.p1;
 
 public class HelloObject {
 	private String message;
